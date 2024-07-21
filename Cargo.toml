@@ -1,7 +1,14 @@
 [package]
 name = "neuroforge"
 version = "0.1.0"
+authors = ["Your Name <your.email@example.com>"]
 edition = "2021"
+description = "A neural network library with advanced features including quantum-inspired neurons, adaptive architecture, and neuro-symbolic integration."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/xStFtx/neuroforge"
+readme = "README.md"
+keywords = ["neural-network", "machine-learning", "quantum", "neuro-symbolic"]
+categories = ["science", "algorithms"]
 
 [dependencies]
 rand = "0.8.5"
