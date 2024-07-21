@@ -1,5 +1,5 @@
 use rand::Rng;
-use std::f64::consts::PI;
+
 
 pub struct TemporalNeuron {
     weights: Vec<f64>,
